@@ -36,8 +36,8 @@ Pygame: Library for creating games and multimedia applications in Python.<div>
 Code Structure<div>
 The code is organized into several main sections:<div>
 
-** Frog class: ** Defines the frog's movement, jumping mechanics, and rendering.<div>
+Frog class:  Defines the frog's movement, jumping mechanics, and rendering.<div>
 Obstacle class: Handles obstacle creation, movement, and rendering.<div>
 Main game loop: Manages game updates, event handling, and collision detection.<div>
 
-##Enjoy the game and happy coding!
+## Enjoy the game and happy coding!
