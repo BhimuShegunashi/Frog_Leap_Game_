@@ -1,4 +1,4 @@
-#FrogLeapGame<div>
+# FrogLeapGame<div>
 FrogLeapGame is a simple, fun, and addictive 2D game built using the Pygame library in Python. In this game, players control a frog to jump over obstacles and avoid collisions. The objective is to survive as long as possible without hitting any obstacles. This game is ideal for beginners learning Python game development and for those who enjoy arcade-style games.<div>
 
 Table of Contents<div>
